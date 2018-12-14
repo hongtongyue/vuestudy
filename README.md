@@ -1,1 +1,1 @@
-This is Vue Study Sample
+This is Vue Study Samples
